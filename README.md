@@ -14,11 +14,11 @@ Sigue el paso a paso en mi canal de YouTube para aprender a crear la página de 
 
 ¿Quieres ver la plantilla en acción antes de descargarla?
 
-🔗 **[Ver Demo en Vivo](https://tusitio.com/foodfast)**
+🔗 **[Ver Demo en Vivo](https://foodfast-aq.netlify.app)**
 
 ## 🚀 **Características**
 
-✔️ Diseño responsivo y adaptable  
+✔️ Diseño responsivo y adaptable para dispositivos móviles 
 ✔️ Animaciones suaves con CSS  
 ✔️ Menú de navegación interactivo  
 ✔️ Secciones personalizables (Inicio, Menú, Reservaciones, Contacto)  
@@ -51,12 +51,12 @@ git clone https://github.com/roberto-aq/foodfast_static.git
 ## Obtén el Código Completo
 
 Si deseas obtener el código fuente completo con archivos organizados y optimizados, puedes apoyarme comprándolo en Buy Me a Coffee.
-☕ **[Comprar el código completo](https://buymeacoffee.com/roberto.aq)**
+☕ **[Comprar el código completo](https://buymeacoffee.com/roberto.aq/e/384078)**
 
 🛠 Tecnologías Utilizadas
 
-- HTML5 para la estructura
+- HTML5
 - CSS3 Moderno (Flexbox y Grid, Anidamiento, Variables)
-- JavaScript para interactividad
-- FontAwesome para iconos
-- Google Fonts para tipografías
+- JavaScript
+- FontAwesome 
+- Google Fonts

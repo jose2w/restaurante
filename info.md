@@ -1,4 +1,5 @@
 ## Enlaces
+
 - Iconos: https://fontawesome.com/icons
 
 ## Fuente Utilizada:
@@ -10,26 +11,36 @@ https://fonts.google.com/specimen/Hanken+Grotesk
 ## Iconos Utilizados
 
 ```html
-- Estrella Sólida: <i class="fa-solid fa-star"></i> 
-- Check: <i class="fa-solid fa-check"></i> 
-- Flecha derecha: <i class="fa-solid fa-arrow-right"></i> 
-- Motocicleta: <i class="fa-solid fa-motorcycle"></i> 
-- Etiquetas: <i class="fa-solid fa-tags"></i> 
-- Ranking: <i class="fa-solid fa-ranking-star"></i>
-- Cara con estrellas: <i class="fa-solid fa-face-grin-stars"></i> 
-- Símbolo +: <i class="fa-solid fa-plus"></i> 
-- Ubicación: <i class="fa-solid fa-location-dot"></i> 
-- Celular: <i class="fa-solid fa-phone"></i> 
-- Facebook: <i class="fa-brands fa-facebook"></i> 
-- X: <i class="fa-brands fa-x-twitter"></i> 
-- Instagram: <i class="fa-brands fa-instagram"></i> 
-- Flecha Izquierda Light: <i class="fa-solid fa-chevron-left"></i> 
-- Flecha Derecha Light: <i class="fa-solid fa-chevron-right"></i>
-- Barras (Menú responsive): <i class="fa-solid fa-bars"></i> 
- - X (Cerrar): <i class="fa-solid fa-xmark"></i>
+- Estrella Sólida: <i class="fa-solid fa-star"></i> - Check:
+<i class="fa-solid fa-check"></i> - Flecha derecha:
+<i class="fa-solid fa-arrow-right"></i> - Motocicleta:
+<i class="fa-solid fa-motorcycle"></i> - Etiquetas:
+<i class="fa-solid fa-tags"></i> - Ranking:
+<i class="fa-solid fa-ranking-star"></i> - Cara con estrellas:
+<i class="fa-solid fa-face-grin-stars"></i> - Símbolo +:
+<i class="fa-solid fa-plus"></i> - Ubicación:
+<i class="fa-solid fa-location-dot"></i> - Celular:
+<i class="fa-solid fa-phone"></i> - Facebook:
+<i class="fa-brands fa-facebook"></i> - X:
+<i class="fa-brands fa-x-twitter"></i> - Instagram:
+<i class="fa-brands fa-instagram"></i> - Flecha Izquierda Light:
+<i class="fa-solid fa-chevron-left"></i> - Flecha Derecha Light:
+<i class="fa-solid fa-chevron-right"></i> - Barras (Menú responsive):
+<i class="fa-solid fa-bars"></i> - X (Cerrar):
+<i class="fa-solid fa-xmark"></i>
 ```
 
 ## Textos
+
+### Sección About us
+
+- H2: Nuestro compromiso con la Autenticidad & Excelencia
+- p: Cada platillo que creamos es una celebración de conexión, elaborado con pasión e inspirado en una fusión de sabores. Te invitamos a un espacio acogedor donde cada bocado despierta alegría y cada momento se convierte en un recuerdo inolvidable.
+- Lista:
+  - Ingredientes frescos y de origen local
+  - Opciones vegetarianas y aptas para dietas
+    especiales
+  - Maridajes exquisitos y sabores únicos
 
 ### Sección Main Dishes
 
@@ -140,8 +151,6 @@ https://fonts.google.com/specimen/Hanken+Grotesk
 
 - **Mango Sorbet** - 💰 $12.00  
   Sorbete refrescante de mango con un toque de limón.
-
-
 
 ### Sección Our Ingredients
 
