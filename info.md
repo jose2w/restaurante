@@ -181,6 +181,14 @@ Título:
 
 ### Sección Booking Table
 
+h2: Reserva ahora tu mesa y disfruta de una Gran Experiencia
+
+**Schedules**
+-Lunes a Jueves: 10:00 AM - 09:00 PM
+
+- Viernes y Sábados: 09:00 AM - 10:00 PM
+- Domingos - Cerrado
+
 **Formulario**
 
 - Select del Tiempo: Copia este fragmento de código para evitar escribir la cantidad de tiempo. Puedes añadir o quitarle a tu gusto
