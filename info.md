@@ -8,6 +8,28 @@
 El enlace donde se puede obtener es el siguiente:
 https://fonts.google.com/specimen/Hanken+Grotesk
 
+## Variables CSS
+
+```css
+:root {
+	--color-primary: #a6a182;
+	--color-secondary: #1f2120;
+	--text-color: #aeb0b4;
+	--color-light: #fff;
+	--color-divider: #ffffff1a;
+	--dark-color-divider: #0e110d;
+
+	/* Fuentes */
+	--default-font: 'Hanken Grotesk', serif;
+
+	/* Breakpoints */
+	--breakpoint-sm: 576px;
+	--breakpoint-md: 768px;
+	--breakpoint-lg: 992px;
+	--breakpoint-xl: 1200px;
+}
+```
+
 ## Iconos Utilizados
 
 ```html
