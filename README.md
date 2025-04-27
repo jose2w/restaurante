@@ -1,0 +1,11 @@
+Proyecto web de un restaurante de comida rápida, desarrollado en:
+
+HTML5 para la estructura del sitio.
+
+CSS3 para el diseño y la responsividad.
+
+JavaScript para la interactividad dinámica.
+
+Sitio responsive, ligero y optimizado para todos los dispositivos.
+
+🔗 https://restaurantefoodfast.netlify.app/
