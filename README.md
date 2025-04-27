@@ -1,3 +1,4 @@
+Restaurante FoodFast 🍔
 Proyecto web de un restaurante de comida rápida, desarrollado en:
 
 HTML5 para la estructura del sitio.
